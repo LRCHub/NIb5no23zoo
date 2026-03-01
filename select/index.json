@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "呼吸乱 (Hu Xi Luan) / AIナースロボ＿タイプT",
+  "base_artist": "二錠",
+  "createdAt": "2026-03-01T10:21:08.832820Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "呼吸乱",
+      "artist": "二錠",
+      "has_synced": false,
+      "path": "select/pl_01_呼吸乱_二錠.txt"
+    }
+  ]
+}
